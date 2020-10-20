@@ -59,6 +59,8 @@
     <DataWriteAllFilesInOneDirectory>True</DataWriteAllFilesInOneDirectory>
   </WriteToFileOptions>
   <DataFileSet>
-    <Count>0</Count>
+    <Count>2</Count>
+    <DataFile>log.LogLevel_Data.sql</DataFile>
+    <DataFile>log.Params_Data.sql</DataFile>
   </DataFileSet>
 </DatabaseInformation>

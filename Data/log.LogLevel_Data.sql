@@ -1,0 +1,7 @@
+INSERT INTO [log].[LogLevel] ([LogLevel], [LogLevelDescriptionEN], [LogLevelDescriptionFR]) VALUES (0, N'NONE', N'Aucun')
+INSERT INTO [log].[LogLevel] ([LogLevel], [LogLevelDescriptionEN], [LogLevelDescriptionFR]) VALUES (1, N'CRITICAL', N'Critique')
+INSERT INTO [log].[LogLevel] ([LogLevel], [LogLevelDescriptionEN], [LogLevelDescriptionFR]) VALUES (2, N'ERROR', N'Erreur')
+INSERT INTO [log].[LogLevel] ([LogLevel], [LogLevelDescriptionEN], [LogLevelDescriptionFR]) VALUES (3, N'WARNING', N'Alerte')
+INSERT INTO [log].[LogLevel] ([LogLevel], [LogLevelDescriptionEN], [LogLevelDescriptionFR]) VALUES (4, N'INFO', N'Info')
+INSERT INTO [log].[LogLevel] ([LogLevel], [LogLevelDescriptionEN], [LogLevelDescriptionFR]) VALUES (5, N'VERBOSE', N'Verbeux')
+INSERT INTO [log].[LogLevel] ([LogLevel], [LogLevelDescriptionEN], [LogLevelDescriptionFR]) VALUES (6, N'DEBUG', N'Debug')
