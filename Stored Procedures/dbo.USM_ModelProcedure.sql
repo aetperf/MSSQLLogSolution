@@ -7,7 +7,7 @@ GO
 -- NOM SCRIPT: USP_ProcName
 -- DESCRIPTION: Model for Logging Table
 -- NOTES: 
--- USAGE : EXEC [dbo].[TestProcedure] @p_LogLevelTrace=5, @p_SystemId=0
+-- USAGE : EXEC [dbo].[USM_ModelProcedure] @p_LogLevelTrace=5, @p_SystemId=0
 -- HISTORY:
 -- Date              | Developper                   | Ticket			 |Description
 -------------------------------------------------------------------------------------------------------
